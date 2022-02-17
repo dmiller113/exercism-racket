@@ -4,11 +4,23 @@
 ## Install
 
 ### Mac
+
+#### Racket:
 ```
 $ brew update
 $ brew install minimal-racket
 $ raco pkg install <some package that requires most of racket>
 ```
+
+#### Exercism:
+```
+$ brew update
+$ brew install exercism
+$ exercism configure --token=<API_TOKEN_HERE>
+
+// Optional
+$ exercism configure -w=<Exercism_Directory_Here>
+ ```
 
 ## Completed Exercises
 - Hello World

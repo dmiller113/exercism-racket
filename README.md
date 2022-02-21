@@ -9,7 +9,7 @@
 ```
 $ brew update
 $ brew install minimal-racket
-$ raco pkg install <some package that requires most of racket>
+$ raco pkg install math compiler [...other packages]
 ```
 
 #### Exercism:

@@ -30,9 +30,9 @@ $ exercism configure -w=<Exercism_Directory_Here>
 - Difference of Squares
 - Perfect Numbers
 - Gigasecond
+- Bob
 
 ## Uncompleted Exercises
-- Bob
 - Collatz Conjecture
 - Hamming
 - Scrabble Score

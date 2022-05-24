@@ -32,9 +32,9 @@ $ exercism configure -w=<Exercism_Directory_Here>
 - Gigasecond
 - Bob
 - Collatz Conjecture
+- Hamming
 
 ## Uncompleted Exercises
-- Hamming
 - Scrabble Score
 - Isogram
 - Robot Name

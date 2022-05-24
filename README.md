@@ -31,9 +31,9 @@ $ exercism configure -w=<Exercism_Directory_Here>
 - Perfect Numbers
 - Gigasecond
 - Bob
+- Collatz Conjecture
 
 ## Uncompleted Exercises
-- Collatz Conjecture
 - Hamming
 - Scrabble Score
 - Isogram

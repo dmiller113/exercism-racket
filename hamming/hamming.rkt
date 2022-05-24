@@ -13,4 +13,3 @@
         0
         (string->list strand1)
         (string->list strand2)))
-

@@ -33,9 +33,9 @@ $ exercism configure -w=<Exercism_Directory_Here>
 - Bob
 - Collatz Conjecture
 - Hamming
+- Scrabble Score
 
 ## Uncompleted Exercises
-- Scrabble Score
 - Isogram
 - Robot Name
 - Armstrong Numbers

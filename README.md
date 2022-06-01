@@ -35,10 +35,10 @@ $ exercism configure -w=<Exercism_Directory_Here>
 - Hamming
 - Scrabble Score
 - Isogram
+- Armstrong Numbers
 
 ## Uncompleted Exercises
 - Robot Name
-- Armstrong Numbers
 - Affine Cipher
 - Acronym
 - All your Base
